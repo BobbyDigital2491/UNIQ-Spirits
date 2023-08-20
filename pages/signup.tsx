@@ -8,7 +8,7 @@ const signup = () => {
     <div className="bg-black">
         <Seo title="U'NiQ Spirts" description={'Sign up foir our newsletter!'} image={'UNIQ.png'} url={''}/>
        <Hero2/>
-       <br className='bg-black'/>
+       
   <iframe src="http://eepurl.com/ixWgYA" width="100%" height="700"></iframe>
   <Footer2/>
 </div>
