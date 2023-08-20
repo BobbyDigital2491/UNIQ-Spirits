@@ -1,12 +1,12 @@
 {
-  "name": "tailwind-typescript-starter-nextjs",
+  "name": "uniqspirits",
   "version": "1.0.0",
-  "description": "typescript starter with tailwindcss",
-  "author": "kumard3",
+  "description": "Uniq Spirits Wine Company",
+  "author": "Bobby Digital",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cyphen12/tailwind-typescript-starter.git"
+    "url": "git+https://github.com/BobbyDigital2491/uniq.git"
   },
   "source": "pages/index.tsx",
   "engines": {
@@ -19,9 +19,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.16",
+    "@heroicons/react": "^2.0.18",
+    "@tailwindcss/forms": "^0.5.3",
     "next": "12.0.7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.15.0"
   },
   "devDependencies": {
     "@types/node": "17.0.4",
@@ -34,14 +39,14 @@
     "typescript": "4.5.4"
   },
   "bugs": {
-    "url": "https://github.com/Cyphen12/tailwind-typescript-starter/issues"
+    "url": "https://github.com/BobbyDigital2491/uniq/issues"
   },
-  "homepage": "https://github.com/Cyphen12/tailwind-typescript-starter#readme",
+  "homepage": "https://github.com/BobbyDigital2491/uniq#readme",
   "main": "next.config.js",
   "keywords": [
     "nextjs",
     "tailwindcss",
     "typescript",
-    "starter"
+    "uniq"
   ]
 }
