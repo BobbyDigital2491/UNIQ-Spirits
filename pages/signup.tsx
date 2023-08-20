@@ -5,7 +5,7 @@ import Hero2 from '../components/Hero2'
 
 const signup = () => {
   return (
-    <div>
+    <div classname="bg-black">
         <Seo title="U'NiQ Spirts" description={'Sign up foir our newsletter!'} image={'UNIQ.png'} url={''}/>
        <Hero2/>
        <br className='bg-black'/>
