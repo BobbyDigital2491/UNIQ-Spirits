@@ -64,7 +64,7 @@ const C2 = () => {
       <li className="lg:col-span-2 lg:col-start-2 lg:row-span-2 lg:row-start-1">
         <a href="#" className="relative block group">
           <img
-            src="Uniq.jpg"
+            src="UNIQ.jpg"
             alt=""
             className="object-cover w-full transition duration-500 aspect-square group-hover:opacity-90"
           />
