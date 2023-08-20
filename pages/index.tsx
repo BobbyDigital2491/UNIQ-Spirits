@@ -9,9 +9,9 @@ export default function Index() {
       
       <main className="flex justify-center items-center w-full h-full">
         <Seo title={"U'NiQ Spirits"} 
-      description={"Welcome to Channel 91, a variety channel where you can find whatever content your'e looking for. From documentaries to podcasts, comedy skits to real news. Channel 91 is the home of content."} 
+      description={"At U’NiQ, we believe that every sip should be an adventure, and we are dedicated to delivering excellence in every bottle."} 
       image={"public/UNIQ.png"} 
-      url={"CH91.com"}  />
+      url={"drinkuniq.com"}  />
         <section className='flex justify-center items-center w-full'>
           <div className=' flex flex-col text-3xl justify-center font-bold items-center min-h-screen text-center'>
           
