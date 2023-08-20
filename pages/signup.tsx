@@ -9,7 +9,7 @@ const signup = () => {
         <Seo title="U'NiQ Spirts" description={'Sign up foir our newsletter!'} image={'UNIQ.png'} url={''}/>
        <Hero2/>
        
-  <iframe src="http://eepurl.com/ixWgYA" width="100%" height="700"></iframe>
+  <iframe src="https://eepurl.com/ixWgYA" width="100%" height="700"></iframe>
   <Footer2/>
 </div>
 
