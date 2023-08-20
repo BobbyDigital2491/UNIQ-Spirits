@@ -1,10 +1,6 @@
 import React from 'react'
 import Seo from '../components/Seo'
 import Footer2 from '../components/Footer2'
-import Nav2 from '../components/Nav2'
-import Info from '../components/Info'
-import Info2 from '../components/Info2'
-import Nav3 from '../components/Nav3'
 import Hero2 from '../components/Hero2'
 
 const signup = () => {
